@@ -10,7 +10,7 @@
 
 ![Location](https://img.shields.io/badge/Jaipur,_India-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Education](https://img.shields.io/badge/LNMIIT-B.Tech_2027-2c5364?style=for-the-badge&logo=academia&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Distributed_Systems-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-1's_&_0's-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![Open To](https://img.shields.io/badge/Open_to-Internships_%26_OSS-3fb950?style=for-the-badge)
 
 [![Email](https://img.shields.io/badge/Email-kartikdhingani01@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartikdhingani01@gmail.com)
@@ -129,6 +129,6 @@ If you're building something where *"it mostly works"* isn't good enough — let
 ### 📫 Let's Connect
  
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikdhingani01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-dhingani-335b66244/)
 </div>
  
